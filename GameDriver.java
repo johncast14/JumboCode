@@ -104,10 +104,10 @@ public class GameDriver extends JPanel {
             if (lost) {
 
                 saveScoreToFile();
-                //setVisible(false);
-                this.endGame();
+                setVisible(false);
+                //this.endGame();
 
-                timer.stop();
+                //timer.stop();
 
             }
 
@@ -145,11 +145,6 @@ public class GameDriver extends JPanel {
         });
 
         timer.start();
-        while(!lost)
-        {
-            continue;
-        }
-        
 
     }
 
