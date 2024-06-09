@@ -1,5 +1,4 @@
 # JumboCode
-Use for hackathon
+Used for the JumboCode 2024 hackathon
 
-Hi guys we are doing a java/javaswing app
-
+Hello! "Catch It, Recycle It!" is our project for JumboCode 2024 and is a java/javaswing application that aims to educate the importance of recycling correctly.
